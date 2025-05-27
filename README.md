@@ -1,5 +1,5 @@
 # Final_Capstone_Project
-# Predicting Global Air Quality Levels Using Weather Data and Machine Learning
+## Predicting Global Air Quality Levels Using Weather Data and Machine Learning
 ### Overview :
   This machine learning project predicts **air quality levels** based on weather-related features such as temperature, humidity, pressure, and wind speed. Using classification algorithms, the model categorizes air quality according to the **US EPA Index**, helping in environmental monitoring and public health awareness.
 ### Problem Statement :
